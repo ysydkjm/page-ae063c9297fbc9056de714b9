@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.beiddkk93z.cn/sitemap.xml
